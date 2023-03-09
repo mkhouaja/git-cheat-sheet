@@ -5,3 +5,5 @@ git checkout -b => Creation nouvelle branche et switcher la dessus
 git branch => Creation nouvelle branche sans switcher la dessus
 
 git branch -d => Suppression branche
+
+git log => voir l'historique d'un fichier
