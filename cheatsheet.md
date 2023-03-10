@@ -13,3 +13,5 @@ git remote add origin => setter un origin remote pour la 1ère fois
 git remote set-url => Modifier l'url de l'origin remote
 
 creation codeowners file pour gérer les reviewrs des pull request
+
+commandes git merge : merge / rebase/squash merge
